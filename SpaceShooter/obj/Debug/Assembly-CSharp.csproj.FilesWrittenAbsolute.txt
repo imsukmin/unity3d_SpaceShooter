@@ -1,0 +1,17 @@
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/obj/Debug/Assembly-CSharp.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/UnityEngine.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/UnityEditor.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/imsukmin/code/unity/unity3d_tutorials_SpaceShooter/SpaceShooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
